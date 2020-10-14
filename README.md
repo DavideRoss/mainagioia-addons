@@ -18,6 +18,11 @@ Information repository aimed to provide an (almost) painless addon transition fr
 
 ## Generic
 
+|Name|Is updated?|Addon Version|Version on Twitch|Download|
+|-|-|-|-|-|
+|ElvUI|**Yes**✔|12.00|N.D.|[Link](https://www.tukui.org/download.php?ui=elvui)|
+|Deadly Boss Mods|**Yes**✔|9.0.1|9.0.1|[Link](https://www.curseforge.com/wow/addons/deadly-boss-mods/files)|
+
 ## Death Knight
 ### Blood
 ### Frost
