@@ -18,10 +18,11 @@ Information repository aimed to provide an (almost) painless addon transition fr
 
 ## Generic
 
-|Name|Is updated?|Addon Version|Version on Twitch|Download|
-|-|-|-|-|-|
-|ElvUI|**Yes**✔|12.00|N.D.|[Link](https://www.tukui.org/download.php?ui=elvui)|
-|Deadly Boss Mods|**Yes**✔|9.0.1|9.0.1|[Link](https://www.curseforge.com/wow/addons/deadly-boss-mods/files)|
+|Name|Is updated?|Addon Version|Version on Twitch|Download|Notes|
+|-|-|-|-|-|-|
+|ElvUI|**Yes**✔|12.00|N.D.|[Link](https://www.tukui.org/download.php?ui=elvui)||
+|Deadly Boss Mods|**Yes**✔|9.0.1|9.0.1|[Link](https://www.curseforge.com/wow/addons/deadly-boss-mods/files)||
+|Details! Damage Meter|**Yes**✔|9.0.1|9.0.1|[Link](https://www.curseforge.com/wow/addons/details-damage-meter-shadowlands-beta)|Different by 8.3.0 addon|
 
 ## Death Knight
 ### Blood
